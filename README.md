@@ -10,9 +10,6 @@ I'm first-year student who currently studying computer network and security.
 * 🖥️  See my portfolio at [My Portfolio](http://127.0.0.1:5501/index.html)
 * ✉️  You can contact me at [heehuien0123@gmail.com](mailto:heehuien0123@gmail.com)
 
-### Reflection
-<p align="left">
-
 ### Skills
 
 <p align="left">
