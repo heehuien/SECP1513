@@ -7,7 +7,7 @@ Get To Know Me
 I'm first-year student who currently studying computer network and security.
 
 * 🌍  I'm based in Malaysia
-* 🖥️  See my portfolio at [My Portfolio](http://127.0.0.1:5501/index.html)
+* 🖥️  See my portfolio at [My Portfolio](https://heehuien.github.io)
 * ✉️  You can contact me at [heehuien0123@gmail.com](mailto:heehuien0123@gmail.com)
 
 ### Skills
